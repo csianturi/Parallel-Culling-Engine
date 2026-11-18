@@ -1,0 +1,1 @@
+If you wish to see application in action, open the folder in Visual Studio as a CMake workspace. Please select the x64-Release configuration to view the accurate GPU benchmark timings. Build All and run.
